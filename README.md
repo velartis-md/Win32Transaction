@@ -1,0 +1,1 @@
+This project is only meant to provide a small application to reproduce an issue with FSLogix and Windows Registry Transactins (TxR).
